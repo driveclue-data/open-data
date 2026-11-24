@@ -1,0 +1,41 @@
+{
+  "upload_type": "dataset",
+  "title": "DriveClue open data: car reliability, recalls, complaints and MOT results",
+  "creators": [
+    {
+      "name": "DriveClue"
+    }
+  ],
+  "description": "<p>Snapshot of https://driveclue.com/data taken 2026-11-24. Every model year DriveClue tracks, with NHTSA owner complaints, U.S. and Canadian recalls, crash ratings, fuel economy, the Lemon Score and whether it is a year to avoid. The mileage at which owners said engine, transmission, brake and other problems happened, by model year and problem area, from NHTSA's full complaint files. How many complaints each state's owners filed with NHTSA about each model and each problem area, for 2010-and-newer cars. Every model with at least 500 MOT tests in Great Britain in 2025, by the year the car was first used: tests, failure rate, average mileage and failures on tyres, brakes, suspension and lights.</p><p>The live files are at https://driveclue.com/data.</p>",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "used cars",
+    "car reliability",
+    "years to avoid",
+    "NHTSA complaints",
+    "vehicle recalls",
+    "Transport Canada recalls",
+    "crash test ratings",
+    "fuel economy",
+    "Lemon Score",
+    "car problems by mileage",
+    "transmission failure mileage",
+    "engine problems",
+    "car complaints by state",
+    "vehicle defects",
+    "state data",
+    "MOT failure rates",
+    "MOT results",
+    "UK used cars",
+    "DVSA",
+    "MOT test data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://driveclue.com/data",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

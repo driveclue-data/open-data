@@ -1,5 +1,7 @@
 # DriveClue open data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24514821.svg)](https://doi.org/10.5281/zenodo.24514821)
+
 Free datasets on used car reliability, car recalls, owner complaints and UK MOT results, from [DriveClue](https://driveclue.com). They hold the numbers behind DriveClue's reports, built from public government records (NHTSA, Transport Canada, the U.S. EPA and DVSA). Licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 This repository is a snapshot taken 2026-11-24. The live files, updated as the agencies add records, are at https://driveclue.com/data.
@@ -249,4 +251,4 @@ Updates: Updated once a year, when DVSA publishes a full year of MOT data. Quest
 
 ## Citing
 
-Cite the dataset you used, with the citation under it. GitHub's "Cite this repository" button reads [CITATION.cff](CITATION.cff) for the collection as a whole.
+Cite the dataset you used, with the citation under it. For the collection as a whole, use its DOI, [10.5281/zenodo.24514821](https://doi.org/10.5281/zenodo.24514821) (Zenodo; it always leads to the newest snapshot), or GitHub's "Cite this repository" button, which reads [CITATION.cff](CITATION.cff).

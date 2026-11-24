@@ -9,6 +9,7 @@ authors:
 version: "2026-11-24"
 date-released: "2026-11-24"
 license: CC-BY-4.0
+doi: "10.5281/zenodo.24514821"
 url: "https://driveclue.com/data"
 repository: "https://github.com/driveclue-data/open-data"
 keywords:
