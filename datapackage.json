@@ -1,0 +1,380 @@
+{
+  "name": "driveclue-open-data",
+  "title": "DriveClue open data",
+  "homepage": "https://driveclue.com/data",
+  "version": "2026-11-24",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "DriveClue",
+      "path": "https://driveclue.com",
+      "email": "hello@driveclue.com",
+      "role": "publisher"
+    }
+  ],
+  "sources": [
+    {
+      "title": "NHTSA owner complaints, recalls and 5-Star Safety Ratings",
+      "path": "https://www.nhtsa.gov/nhtsa-datasets-and-apis"
+    },
+    {
+      "title": "Transport Canada Vehicle Recalls Database",
+      "path": "https://opendatatc.tc.canada.ca/vrdb_full_monthly.csv"
+    },
+    {
+      "title": "U.S. EPA fuel economy data (fueleconomy.gov)",
+      "path": "https://www.fueleconomy.gov/feg/download.shtml"
+    },
+    {
+      "title": "NHTSA owner complaint flat files (FLAT_CMPL)",
+      "path": "https://static.nhtsa.gov/odi/ffdd/cmpl/CMPL.txt"
+    },
+    {
+      "title": "DVSA MOT anonymised data, 2025 test results and items",
+      "path": "https://open.data.dvsa.gov.uk/mot-anonymised/index.html"
+    }
+  ],
+  "resources": [
+    {
+      "name": "used-car-reliability",
+      "title": "Used car reliability by model year: complaints, recalls and Lemon Scores",
+      "description": "One row per model year with a Lemon Score or NHTSA complaint data.",
+      "path": "data/used-car-reliability.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "homepage": "https://driveclue.com/data/used-car-reliability",
+      "schema": {
+        "fields": [
+          {
+            "name": "make",
+            "type": "string",
+            "description": "Make, as DriveClue names it (Toyota, Mercedes-Benz)."
+          },
+          {
+            "name": "model",
+            "type": "string",
+            "description": "Model, as DriveClue names it."
+          },
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "Model year."
+          },
+          {
+            "name": "lemon_score",
+            "type": "integer",
+            "description": "Lemon Score, 0–100, higher is better. Blank when the year doesn't have enough data to score."
+          },
+          {
+            "name": "provisional",
+            "type": "boolean",
+            "description": "true for model years under two years old, whose complaints are still arriving. Blank without a score."
+          },
+          {
+            "name": "score_model_history",
+            "type": "integer",
+            "description": "Part of the score (35%): complaints against the model's other years, 0–100. Blank without enough data."
+          },
+          {
+            "name": "score_same_age",
+            "type": "integer",
+            "description": "Part of the score (25%): complaints per year on the road against all cars of the same age, 0–100."
+          },
+          {
+            "name": "score_recalls",
+            "type": "integer",
+            "description": "Part of the score (20%): safety recalls against cars of the same era, 0–100."
+          },
+          {
+            "name": "score_crash_rating",
+            "type": "integer",
+            "description": "Part of the score (20%): NHTSA's overall crash rating, 0–100. Blank when NHTSA didn't rate the car."
+          },
+          {
+            "name": "complaints",
+            "type": "integer",
+            "description": "Owner complaints filed with NHTSA about this model year."
+          },
+          {
+            "name": "complaints_crash_fire_injury",
+            "type": "integer",
+            "description": "Of those, complaints that report a crash, fire, injury or death."
+          },
+          {
+            "name": "us_recalls",
+            "type": "integer",
+            "description": "NHTSA safety recall campaigns that cover this model year."
+          },
+          {
+            "name": "us_serious_recalls",
+            "type": "integer",
+            "description": "Of those, recalls that tell owners to park the car, or that involve air bags, fuel, brakes or steering."
+          },
+          {
+            "name": "canada_recalls",
+            "type": "integer",
+            "description": "Transport Canada recalls that cover this model year."
+          },
+          {
+            "name": "nhtsa_overall_stars",
+            "type": "integer",
+            "description": "NHTSA 5-Star Safety Ratings overall rating, 1–5. Blank when not rated."
+          },
+          {
+            "name": "epa_best_combined_mpg",
+            "type": "number",
+            "description": "Best combined fuel economy of the model year's versions, U.S. miles per gallon (EPA). Blank when not listed."
+          },
+          {
+            "name": "year_to_avoid",
+            "type": "boolean",
+            "description": "true for the model's years to avoid: up to three years with at least 20 complaints and at least twice the complaints of the model's median year. Blank for BMW series, whose pages combine their trims."
+          },
+          {
+            "name": "page_url",
+            "type": "string",
+            "description": "The model's page on DriveClue, with every year's numbers."
+          }
+        ]
+      }
+    },
+    {
+      "name": "car-problem-mileage",
+      "title": "At what mileage car problems start: owner-reported mileage by model year and problem area",
+      "description": "One row per model year and problem area, up to six areas per model year.",
+      "path": "data/car-problem-mileage.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "homepage": "https://driveclue.com/data/car-problem-mileage",
+      "schema": {
+        "fields": [
+          {
+            "name": "make",
+            "type": "string",
+            "description": "Make, as DriveClue names it (Toyota, Mercedes-Benz)."
+          },
+          {
+            "name": "model",
+            "type": "string",
+            "description": "Model, as DriveClue names it."
+          },
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "Model year."
+          },
+          {
+            "name": "problem_area",
+            "type": "string",
+            "description": "The part of the car the complaints name, in plain words (engine, transmission/powertrain, electrical system)."
+          },
+          {
+            "name": "complaints_with_mileage",
+            "type": "integer",
+            "description": "Complaints about this area that gave a mileage. One complaint counts once per area."
+          },
+          {
+            "name": "miles_p25",
+            "type": "integer",
+            "description": "25th percentile of the reported mileage, miles (weighted, see the method)."
+          },
+          {
+            "name": "miles_median",
+            "type": "integer",
+            "description": "Median reported mileage, miles."
+          },
+          {
+            "name": "miles_p75",
+            "type": "integer",
+            "description": "75th percentile of the reported mileage, miles."
+          },
+          {
+            "name": "km_p25",
+            "type": "integer",
+            "description": "25th percentile, kilometres."
+          },
+          {
+            "name": "km_median",
+            "type": "integer",
+            "description": "Median, kilometres."
+          },
+          {
+            "name": "km_p75",
+            "type": "integer",
+            "description": "75th percentile, kilometres."
+          },
+          {
+            "name": "model_year_complaints_with_mileage",
+            "type": "integer",
+            "description": "All complaints about this model year that gave a mileage."
+          },
+          {
+            "name": "page_url",
+            "type": "string",
+            "description": "The model's page on DriveClue, with every year's numbers."
+          }
+        ]
+      }
+    },
+    {
+      "name": "car-complaints-by-state-and-model",
+      "title": "Car complaints by U.S. state: NHTSA owner complaints by state, model and problem area: By state and model",
+      "description": "One row per state and model with at least one complaint.",
+      "path": "data/car-complaints-by-state-and-model.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "homepage": "https://driveclue.com/data/car-complaints-by-state",
+      "schema": {
+        "fields": [
+          {
+            "name": "state_code",
+            "type": "string",
+            "description": "USPS state code (TX, DC)."
+          },
+          {
+            "name": "state",
+            "type": "string",
+            "description": "State name."
+          },
+          {
+            "name": "make",
+            "type": "string",
+            "description": "Make, as DriveClue names it (Toyota, Mercedes-Benz)."
+          },
+          {
+            "name": "model",
+            "type": "string",
+            "description": "Model, as DriveClue names it."
+          },
+          {
+            "name": "complaints",
+            "type": "integer",
+            "description": "Complaints from the state's owners about this model, all model years from 2010 on."
+          },
+          {
+            "name": "page_url",
+            "type": "string",
+            "description": "The model's page on DriveClue, with every year's numbers."
+          }
+        ]
+      }
+    },
+    {
+      "name": "car-complaints-by-state-and-area",
+      "title": "Car complaints by U.S. state: NHTSA owner complaints by state, model and problem area: By state and problem area",
+      "description": "One row per state and problem area.",
+      "path": "data/car-complaints-by-state-and-area.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "homepage": "https://driveclue.com/data/car-complaints-by-state",
+      "schema": {
+        "fields": [
+          {
+            "name": "state_code",
+            "type": "string",
+            "description": "USPS state code (TX, DC)."
+          },
+          {
+            "name": "state",
+            "type": "string",
+            "description": "State name."
+          },
+          {
+            "name": "problem_area",
+            "type": "string",
+            "description": "The part of the car the complaints name, in plain words."
+          },
+          {
+            "name": "complaints",
+            "type": "integer",
+            "description": "Complaints from the state's owners naming this area. One complaint can name several areas."
+          },
+          {
+            "name": "state_complaints",
+            "type": "integer",
+            "description": "All complaints from the state's owners, each counted once."
+          }
+        ]
+      }
+    },
+    {
+      "name": "uk-mot-2025-failure-rates",
+      "title": "UK MOT failure rates by make, model and year first used (2025)",
+      "description": "One row per model and year first used with at least 500 first tests in 2025.",
+      "path": "data/uk-mot-2025-failure-rates.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "homepage": "https://driveclue.com/data/uk-mot-failure-rates",
+      "schema": {
+        "fields": [
+          {
+            "name": "make",
+            "type": "string",
+            "description": "Make, as DriveClue names it (Toyota, Mercedes-Benz)."
+          },
+          {
+            "name": "model",
+            "type": "string",
+            "description": "Model, as DriveClue groups DVSA's model names."
+          },
+          {
+            "name": "first_used",
+            "type": "integer",
+            "description": "Year the vehicle was first used (registered)."
+          },
+          {
+            "name": "tests",
+            "type": "integer",
+            "description": "First MOT tests in 2025 (retests left out)."
+          },
+          {
+            "name": "fail_rate_pct",
+            "type": "number",
+            "description": "Share of those tests that failed, %. A fail is F or PRS (a defect fixed during the test), as DVSA reports it."
+          },
+          {
+            "name": "average_miles",
+            "type": "integer",
+            "description": "Average odometer reading at the test, miles."
+          },
+          {
+            "name": "tyres_fail_pct",
+            "type": "number",
+            "description": "Share of tests failing on tyres, %."
+          },
+          {
+            "name": "brakes_fail_pct",
+            "type": "number",
+            "description": "Share of tests failing on brakes, %."
+          },
+          {
+            "name": "suspension_fail_pct",
+            "type": "number",
+            "description": "Share of tests failing on suspension, %."
+          },
+          {
+            "name": "lights_fail_pct",
+            "type": "number",
+            "description": "Share of tests failing on lights and electrics, %."
+          },
+          {
+            "name": "all_vehicles_fail_rate_pct",
+            "type": "number",
+            "description": "Failure rate of every car and light van first used in the same year, %."
+          }
+        ]
+      }
+    }
+  ]
+}

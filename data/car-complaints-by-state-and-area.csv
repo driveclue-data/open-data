@@ -1,0 +1,1286 @@
+state_code,state,problem_area,complaints,state_complaints
+AK,Alaska,electrical system,248,1263
+AK,Alaska,engine,238,1263
+AK,Alaska,transmission/powertrain,188,1263
+AK,Alaska,steering,157,1263
+AK,Alaska,brakes,122,1263
+AK,Alaska,air bags,108,1263
+AK,Alaska,fuel system,97,1263
+AK,Alaska,wipers/visibility,74,1263
+AK,Alaska,body structure,66,1263
+AK,Alaska,suspension,57,1263
+AK,Alaska,speed control,49,1263
+AK,Alaska,exterior lights,34,1263
+AK,Alaska,stability control,30,1263
+AK,Alaska,seat belts,26,1263
+AK,Alaska,forward collision avoidance,25,1263
+AK,Alaska,seats,19,1263
+AK,Alaska,wheels,18,1263
+AK,Alaska,lane-keeping assist,9,1263
+AK,Alaska,backup camera,7,1263
+AK,Alaska,latches/locks,7,1263
+AK,Alaska,tires,7,1263
+AK,Alaska,parking brake,2,1263
+AK,Alaska,hybrid system,1,1263
+AK,Alaska,traction control,1,1263
+AK,Alaska,trailer hitch,1,1263
+AL,Alabama,engine,2364,9993
+AL,Alabama,electrical system,1721,9993
+AL,Alabama,transmission/powertrain,1557,9993
+AL,Alabama,steering,1102,9993
+AL,Alabama,air bags,923,9993
+AL,Alabama,brakes,877,9993
+AL,Alabama,fuel system,763,9993
+AL,Alabama,body structure,488,9993
+AL,Alabama,speed control,475,9993
+AL,Alabama,exterior lights,431,9993
+AL,Alabama,wipers/visibility,361,9993
+AL,Alabama,forward collision avoidance,298,9993
+AL,Alabama,suspension,275,9993
+AL,Alabama,stability control,219,9993
+AL,Alabama,seat belts,166,9993
+AL,Alabama,seats,141,9993
+AL,Alabama,wheels,139,9993
+AL,Alabama,lane-keeping assist,119,9993
+AL,Alabama,backup camera,106,9993
+AL,Alabama,tires,65,9993
+AL,Alabama,latches/locks,42,9993
+AL,Alabama,traction control,18,9993
+AL,Alabama,parking brake,8,9993
+AL,Alabama,hybrid system,5,9993
+AL,Alabama,interior lights,5,9993
+AL,Alabama,trailer hitch,1,9993
+AR,Arkansas,engine,1289,5415
+AR,Arkansas,electrical system,967,5415
+AR,Arkansas,transmission/powertrain,916,5415
+AR,Arkansas,steering,633,5415
+AR,Arkansas,brakes,501,5415
+AR,Arkansas,air bags,419,5415
+AR,Arkansas,fuel system,400,5415
+AR,Arkansas,body structure,298,5415
+AR,Arkansas,wipers/visibility,261,5415
+AR,Arkansas,speed control,259,5415
+AR,Arkansas,exterior lights,207,5415
+AR,Arkansas,suspension,164,5415
+AR,Arkansas,forward collision avoidance,150,5415
+AR,Arkansas,stability control,110,5415
+AR,Arkansas,wheels,88,5415
+AR,Arkansas,seats,87,5415
+AR,Arkansas,seat belts,86,5415
+AR,Arkansas,backup camera,55,5415
+AR,Arkansas,lane-keeping assist,52,5415
+AR,Arkansas,latches/locks,34,5415
+AR,Arkansas,tires,31,5415
+AR,Arkansas,parking brake,6,5415
+AR,Arkansas,traction control,6,5415
+AR,Arkansas,hybrid system,1,5415
+AR,Arkansas,interior lights,1,5415
+AR,Arkansas,trailer hitch,1,5415
+AZ,Arizona,engine,2918,13927
+AZ,Arizona,electrical system,2489,13927
+AZ,Arizona,transmission/powertrain,2060,13927
+AZ,Arizona,steering,1359,13927
+AZ,Arizona,fuel system,1299,13927
+AZ,Arizona,brakes,1268,13927
+AZ,Arizona,air bags,1069,13927
+AZ,Arizona,body structure,814,13927
+AZ,Arizona,speed control,703,13927
+AZ,Arizona,forward collision avoidance,637,13927
+AZ,Arizona,wipers/visibility,446,13927
+AZ,Arizona,suspension,435,13927
+AZ,Arizona,exterior lights,356,13927
+AZ,Arizona,seats,290,13927
+AZ,Arizona,seat belts,268,13927
+AZ,Arizona,stability control,242,13927
+AZ,Arizona,wheels,218,13927
+AZ,Arizona,backup camera,181,13927
+AZ,Arizona,lane-keeping assist,167,13927
+AZ,Arizona,latches/locks,154,13927
+AZ,Arizona,tires,132,13927
+AZ,Arizona,parking brake,18,13927
+AZ,Arizona,hybrid system,7,13927
+AZ,Arizona,trailer hitch,7,13927
+AZ,Arizona,interior lights,4,13927
+AZ,Arizona,traction control,4,13927
+CA,California,engine,14829,70465
+CA,California,electrical system,13431,70465
+CA,California,transmission/powertrain,9809,70465
+CA,California,air bags,7181,70465
+CA,California,brakes,7154,70465
+CA,California,steering,6469,70465
+CA,California,fuel system,6059,70465
+CA,California,speed control,3842,70465
+CA,California,body structure,3567,70465
+CA,California,forward collision avoidance,3373,70465
+CA,California,suspension,2718,70465
+CA,California,wipers/visibility,2710,70465
+CA,California,exterior lights,1986,70465
+CA,California,stability control,1288,70465
+CA,California,seat belts,1286,70465
+CA,California,wheels,1182,70465
+CA,California,seats,1158,70465
+CA,California,backup camera,1085,70465
+CA,California,lane-keeping assist,1072,70465
+CA,California,latches/locks,480,70465
+CA,California,tires,474,70465
+CA,California,hybrid system,92,70465
+CA,California,parking brake,60,70465
+CA,California,traction control,58,70465
+CA,California,interior lights,18,70465
+CA,California,trailer hitch,16,70465
+CO,Colorado,engine,2278,10663
+CO,Colorado,electrical system,1891,10663
+CO,Colorado,transmission/powertrain,1789,10663
+CO,Colorado,brakes,1009,10663
+CO,Colorado,steering,989,10663
+CO,Colorado,fuel system,803,10663
+CO,Colorado,air bags,718,10663
+CO,Colorado,forward collision avoidance,582,10663
+CO,Colorado,wipers/visibility,579,10663
+CO,Colorado,speed control,578,10663
+CO,Colorado,body structure,494,10663
+CO,Colorado,suspension,377,10663
+CO,Colorado,exterior lights,317,10663
+CO,Colorado,seat belts,190,10663
+CO,Colorado,stability control,152,10663
+CO,Colorado,backup camera,145,10663
+CO,Colorado,wheels,142,10663
+CO,Colorado,seats,140,10663
+CO,Colorado,lane-keeping assist,124,10663
+CO,Colorado,tires,76,10663
+CO,Colorado,latches/locks,50,10663
+CO,Colorado,traction control,13,10663
+CO,Colorado,parking brake,12,10663
+CO,Colorado,hybrid system,7,10663
+CO,Colorado,trailer hitch,7,10663
+CT,Connecticut,engine,1647,7342
+CT,Connecticut,electrical system,1334,7342
+CT,Connecticut,transmission/powertrain,1215,7342
+CT,Connecticut,steering,742,7342
+CT,Connecticut,brakes,666,7342
+CT,Connecticut,air bags,528,7342
+CT,Connecticut,fuel system,493,7342
+CT,Connecticut,body structure,362,7342
+CT,Connecticut,suspension,300,7342
+CT,Connecticut,wipers/visibility,297,7342
+CT,Connecticut,speed control,288,7342
+CT,Connecticut,exterior lights,256,7342
+CT,Connecticut,forward collision avoidance,226,7342
+CT,Connecticut,wheels,122,7342
+CT,Connecticut,stability control,105,7342
+CT,Connecticut,backup camera,103,7342
+CT,Connecticut,seat belts,101,7342
+CT,Connecticut,seats,86,7342
+CT,Connecticut,lane-keeping assist,75,7342
+CT,Connecticut,tires,68,7342
+CT,Connecticut,latches/locks,49,7342
+CT,Connecticut,traction control,11,7342
+CT,Connecticut,parking brake,8,7342
+CT,Connecticut,hybrid system,5,7342
+CT,Connecticut,interior lights,5,7342
+CT,Connecticut,trailer hitch,3,7342
+DC,District of Columbia,engine,308,1508
+DC,District of Columbia,electrical system,288,1508
+DC,District of Columbia,transmission/powertrain,220,1508
+DC,District of Columbia,brakes,141,1508
+DC,District of Columbia,steering,126,1508
+DC,District of Columbia,air bags,123,1508
+DC,District of Columbia,fuel system,114,1508
+DC,District of Columbia,speed control,96,1508
+DC,District of Columbia,body structure,55,1508
+DC,District of Columbia,wipers/visibility,48,1508
+DC,District of Columbia,forward collision avoidance,46,1508
+DC,District of Columbia,suspension,45,1508
+DC,District of Columbia,stability control,38,1508
+DC,District of Columbia,exterior lights,35,1508
+DC,District of Columbia,seats,32,1508
+DC,District of Columbia,wheels,24,1508
+DC,District of Columbia,seat belts,19,1508
+DC,District of Columbia,backup camera,11,1508
+DC,District of Columbia,lane-keeping assist,9,1508
+DC,District of Columbia,latches/locks,6,1508
+DC,District of Columbia,tires,6,1508
+DC,District of Columbia,interior lights,1,1508
+DE,Delaware,engine,611,2511
+DE,Delaware,electrical system,467,2511
+DE,Delaware,transmission/powertrain,427,2511
+DE,Delaware,steering,224,2511
+DE,Delaware,brakes,212,2511
+DE,Delaware,fuel system,194,2511
+DE,Delaware,air bags,180,2511
+DE,Delaware,speed control,115,2511
+DE,Delaware,body structure,114,2511
+DE,Delaware,wipers/visibility,87,2511
+DE,Delaware,suspension,84,2511
+DE,Delaware,exterior lights,81,2511
+DE,Delaware,forward collision avoidance,81,2511
+DE,Delaware,seats,57,2511
+DE,Delaware,seat belts,41,2511
+DE,Delaware,wheels,40,2511
+DE,Delaware,backup camera,34,2511
+DE,Delaware,stability control,25,2511
+DE,Delaware,lane-keeping assist,23,2511
+DE,Delaware,latches/locks,16,2511
+DE,Delaware,tires,13,2511
+DE,Delaware,parking brake,2,2511
+FL,Florida,engine,10642,50168
+FL,Florida,electrical system,8670,50168
+FL,Florida,transmission/powertrain,6865,50168
+FL,Florida,steering,5422,50168
+FL,Florida,air bags,5282,50168
+FL,Florida,brakes,5150,50168
+FL,Florida,fuel system,4172,50168
+FL,Florida,body structure,2972,50168
+FL,Florida,speed control,2214,50168
+FL,Florida,exterior lights,1765,50168
+FL,Florida,wipers/visibility,1717,50168
+FL,Florida,forward collision avoidance,1675,50168
+FL,Florida,suspension,1261,50168
+FL,Florida,seats,869,50168
+FL,Florida,stability control,860,50168
+FL,Florida,seat belts,840,50168
+FL,Florida,wheels,815,50168
+FL,Florida,backup camera,637,50168
+FL,Florida,lane-keeping assist,554,50168
+FL,Florida,tires,475,50168
+FL,Florida,latches/locks,336,50168
+FL,Florida,traction control,51,50168
+FL,Florida,parking brake,34,50168
+FL,Florida,hybrid system,30,50168
+FL,Florida,trailer hitch,21,50168
+FL,Florida,interior lights,18,50168
+GA,Georgia,engine,6128,24497
+GA,Georgia,electrical system,4419,24497
+GA,Georgia,transmission/powertrain,4002,24497
+GA,Georgia,steering,2397,24497
+GA,Georgia,air bags,2342,24497
+GA,Georgia,brakes,2243,24497
+GA,Georgia,fuel system,2001,24497
+GA,Georgia,speed control,1152,24497
+GA,Georgia,body structure,1132,24497
+GA,Georgia,exterior lights,924,24497
+GA,Georgia,wipers/visibility,834,24497
+GA,Georgia,forward collision avoidance,688,24497
+GA,Georgia,suspension,573,24497
+GA,Georgia,stability control,490,24497
+GA,Georgia,seat belts,409,24497
+GA,Georgia,seats,382,24497
+GA,Georgia,wheels,324,24497
+GA,Georgia,backup camera,304,24497
+GA,Georgia,lane-keeping assist,259,24497
+GA,Georgia,tires,158,24497
+GA,Georgia,latches/locks,117,24497
+GA,Georgia,traction control,38,24497
+GA,Georgia,hybrid system,19,24497
+GA,Georgia,parking brake,17,24497
+GA,Georgia,interior lights,8,24497
+GA,Georgia,trailer hitch,5,24497
+HI,Hawaii,electrical system,364,1940
+HI,Hawaii,engine,355,1940
+HI,Hawaii,transmission/powertrain,261,1940
+HI,Hawaii,air bags,232,1940
+HI,Hawaii,brakes,218,1940
+HI,Hawaii,fuel system,196,1940
+HI,Hawaii,steering,195,1940
+HI,Hawaii,body structure,113,1940
+HI,Hawaii,speed control,92,1940
+HI,Hawaii,forward collision avoidance,61,1940
+HI,Hawaii,wipers/visibility,54,1940
+HI,Hawaii,exterior lights,52,1940
+HI,Hawaii,suspension,39,1940
+HI,Hawaii,seats,35,1940
+HI,Hawaii,stability control,32,1940
+HI,Hawaii,wheels,23,1940
+HI,Hawaii,latches/locks,21,1940
+HI,Hawaii,seat belts,20,1940
+HI,Hawaii,lane-keeping assist,18,1940
+HI,Hawaii,backup camera,17,1940
+HI,Hawaii,tires,15,1940
+HI,Hawaii,interior lights,3,1940
+HI,Hawaii,parking brake,2,1940
+HI,Hawaii,hybrid system,1,1940
+IA,Iowa,engine,1122,4616
+IA,Iowa,electrical system,823,4616
+IA,Iowa,transmission/powertrain,750,4616
+IA,Iowa,steering,487,4616
+IA,Iowa,brakes,357,4616
+IA,Iowa,fuel system,284,4616
+IA,Iowa,air bags,283,4616
+IA,Iowa,wipers/visibility,214,4616
+IA,Iowa,body structure,200,4616
+IA,Iowa,speed control,200,4616
+IA,Iowa,forward collision avoidance,160,4616
+IA,Iowa,suspension,149,4616
+IA,Iowa,exterior lights,141,4616
+IA,Iowa,seat belts,81,4616
+IA,Iowa,seats,78,4616
+IA,Iowa,stability control,73,4616
+IA,Iowa,backup camera,69,4616
+IA,Iowa,wheels,69,4616
+IA,Iowa,lane-keeping assist,59,4616
+IA,Iowa,latches/locks,39,4616
+IA,Iowa,tires,27,4616
+IA,Iowa,traction control,9,4616
+IA,Iowa,parking brake,4,4616
+IA,Iowa,interior lights,3,4616
+IA,Iowa,hybrid system,1,4616
+IA,Iowa,trailer hitch,1,4616
+ID,Idaho,engine,600,2653
+ID,Idaho,electrical system,482,2653
+ID,Idaho,transmission/powertrain,441,2653
+ID,Idaho,steering,269,2653
+ID,Idaho,fuel system,247,2653
+ID,Idaho,brakes,210,2653
+ID,Idaho,air bags,165,2653
+ID,Idaho,speed control,133,2653
+ID,Idaho,body structure,132,2653
+ID,Idaho,wipers/visibility,125,2653
+ID,Idaho,forward collision avoidance,110,2653
+ID,Idaho,suspension,93,2653
+ID,Idaho,exterior lights,91,2653
+ID,Idaho,wheels,57,2653
+ID,Idaho,seats,41,2653
+ID,Idaho,stability control,37,2653
+ID,Idaho,seat belts,36,2653
+ID,Idaho,backup camera,30,2653
+ID,Idaho,lane-keeping assist,24,2653
+ID,Idaho,tires,19,2653
+ID,Idaho,latches/locks,18,2653
+ID,Idaho,parking brake,3,2653
+ID,Idaho,interior lights,2,2653
+ID,Idaho,traction control,2,2653
+ID,Idaho,trailer hitch,1,2653
+IL,Illinois,engine,5644,22615
+IL,Illinois,electrical system,4143,22615
+IL,Illinois,transmission/powertrain,3562,22615
+IL,Illinois,steering,2197,22615
+IL,Illinois,brakes,1908,22615
+IL,Illinois,fuel system,1608,22615
+IL,Illinois,air bags,1524,22615
+IL,Illinois,speed control,1066,22615
+IL,Illinois,body structure,1061,22615
+IL,Illinois,wipers/visibility,1008,22615
+IL,Illinois,exterior lights,804,22615
+IL,Illinois,suspension,779,22615
+IL,Illinois,forward collision avoidance,661,22615
+IL,Illinois,stability control,457,22615
+IL,Illinois,wheels,401,22615
+IL,Illinois,seat belts,380,22615
+IL,Illinois,seats,327,22615
+IL,Illinois,backup camera,261,22615
+IL,Illinois,lane-keeping assist,212,22615
+IL,Illinois,tires,170,22615
+IL,Illinois,latches/locks,144,22615
+IL,Illinois,traction control,33,22615
+IL,Illinois,parking brake,19,22615
+IL,Illinois,hybrid system,12,22615
+IL,Illinois,trailer hitch,7,22615
+IL,Illinois,interior lights,6,22615
+IN,Indiana,engine,2853,11712
+IN,Indiana,electrical system,2116,11712
+IN,Indiana,transmission/powertrain,1977,11712
+IN,Indiana,steering,1254,11712
+IN,Indiana,brakes,1009,11712
+IN,Indiana,fuel system,810,11712
+IN,Indiana,air bags,753,11712
+IN,Indiana,body structure,557,11712
+IN,Indiana,speed control,519,11712
+IN,Indiana,wipers/visibility,488,11712
+IN,Indiana,exterior lights,418,11712
+IN,Indiana,suspension,347,11712
+IN,Indiana,forward collision avoidance,331,11712
+IN,Indiana,stability control,230,11712
+IN,Indiana,seat belts,184,11712
+IN,Indiana,wheels,184,11712
+IN,Indiana,seats,166,11712
+IN,Indiana,backup camera,138,11712
+IN,Indiana,lane-keeping assist,101,11712
+IN,Indiana,tires,74,11712
+IN,Indiana,latches/locks,68,11712
+IN,Indiana,traction control,13,11712
+IN,Indiana,parking brake,8,11712
+IN,Indiana,hybrid system,6,11712
+IN,Indiana,interior lights,1,11712
+IN,Indiana,trailer hitch,1,11712
+KS,Kansas,engine,1153,4869
+KS,Kansas,electrical system,816,4869
+KS,Kansas,transmission/powertrain,794,4869
+KS,Kansas,steering,529,4869
+KS,Kansas,brakes,405,4869
+KS,Kansas,fuel system,333,4869
+KS,Kansas,air bags,309,4869
+KS,Kansas,body structure,272,4869
+KS,Kansas,speed control,242,4869
+KS,Kansas,wipers/visibility,206,4869
+KS,Kansas,exterior lights,170,4869
+KS,Kansas,suspension,169,4869
+KS,Kansas,forward collision avoidance,168,4869
+KS,Kansas,stability control,91,4869
+KS,Kansas,seat belts,81,4869
+KS,Kansas,seats,76,4869
+KS,Kansas,wheels,71,4869
+KS,Kansas,backup camera,60,4869
+KS,Kansas,lane-keeping assist,49,4869
+KS,Kansas,latches/locks,34,4869
+KS,Kansas,tires,26,4869
+KS,Kansas,traction control,4,4869
+KS,Kansas,hybrid system,3,4869
+KS,Kansas,interior lights,3,4869
+KS,Kansas,parking brake,2,4869
+KY,Kentucky,engine,2061,8387
+KY,Kentucky,transmission/powertrain,1522,8387
+KY,Kentucky,electrical system,1437,8387
+KY,Kentucky,steering,948,8387
+KY,Kentucky,brakes,762,8387
+KY,Kentucky,fuel system,590,8387
+KY,Kentucky,air bags,544,8387
+KY,Kentucky,body structure,417,8387
+KY,Kentucky,speed control,373,8387
+KY,Kentucky,exterior lights,311,8387
+KY,Kentucky,suspension,267,8387
+KY,Kentucky,wipers/visibility,244,8387
+KY,Kentucky,forward collision avoidance,232,8387
+KY,Kentucky,stability control,172,8387
+KY,Kentucky,backup camera,132,8387
+KY,Kentucky,seat belts,126,8387
+KY,Kentucky,wheels,123,8387
+KY,Kentucky,seats,108,8387
+KY,Kentucky,lane-keeping assist,76,8387
+KY,Kentucky,latches/locks,61,8387
+KY,Kentucky,tires,42,8387
+KY,Kentucky,traction control,8,8387
+KY,Kentucky,parking brake,7,8387
+KY,Kentucky,hybrid system,5,8387
+KY,Kentucky,interior lights,5,8387
+KY,Kentucky,trailer hitch,2,8387
+LA,Louisiana,engine,1956,8512
+LA,Louisiana,electrical system,1474,8512
+LA,Louisiana,transmission/powertrain,1262,8512
+LA,Louisiana,steering,928,8512
+LA,Louisiana,brakes,853,8512
+LA,Louisiana,air bags,732,8512
+LA,Louisiana,fuel system,694,8512
+LA,Louisiana,body structure,443,8512
+LA,Louisiana,speed control,404,8512
+LA,Louisiana,exterior lights,388,8512
+LA,Louisiana,wipers/visibility,306,8512
+LA,Louisiana,suspension,266,8512
+LA,Louisiana,forward collision avoidance,226,8512
+LA,Louisiana,stability control,165,8512
+LA,Louisiana,wheels,145,8512
+LA,Louisiana,seat belts,129,8512
+LA,Louisiana,seats,125,8512
+LA,Louisiana,lane-keeping assist,74,8512
+LA,Louisiana,backup camera,71,8512
+LA,Louisiana,tires,61,8512
+LA,Louisiana,latches/locks,58,8512
+LA,Louisiana,traction control,10,8512
+LA,Louisiana,parking brake,4,8512
+LA,Louisiana,interior lights,3,8512
+LA,Louisiana,hybrid system,2,8512
+LA,Louisiana,trailer hitch,1,8512
+MA,Massachusetts,engine,3007,13849
+MA,Massachusetts,electrical system,2419,13849
+MA,Massachusetts,transmission/powertrain,2108,13849
+MA,Massachusetts,steering,1489,13849
+MA,Massachusetts,brakes,1227,13849
+MA,Massachusetts,fuel system,994,13849
+MA,Massachusetts,air bags,953,13849
+MA,Massachusetts,body structure,738,13849
+MA,Massachusetts,speed control,720,13849
+MA,Massachusetts,suspension,632,13849
+MA,Massachusetts,wipers/visibility,572,13849
+MA,Massachusetts,exterior lights,506,13849
+MA,Massachusetts,forward collision avoidance,451,13849
+MA,Massachusetts,wheels,253,13849
+MA,Massachusetts,stability control,209,13849
+MA,Massachusetts,seats,187,13849
+MA,Massachusetts,backup camera,181,13849
+MA,Massachusetts,seat belts,177,13849
+MA,Massachusetts,lane-keeping assist,138,13849
+MA,Massachusetts,tires,121,13849
+MA,Massachusetts,latches/locks,88,13849
+MA,Massachusetts,traction control,21,13849
+MA,Massachusetts,parking brake,15,13849
+MA,Massachusetts,hybrid system,10,13849
+MA,Massachusetts,interior lights,3,13849
+MA,Massachusetts,trailer hitch,2,13849
+MD,Maryland,engine,3722,15840
+MD,Maryland,electrical system,3056,15840
+MD,Maryland,transmission/powertrain,2389,15840
+MD,Maryland,steering,1529,15840
+MD,Maryland,brakes,1497,15840
+MD,Maryland,fuel system,1196,15840
+MD,Maryland,air bags,1182,15840
+MD,Maryland,speed control,828,15840
+MD,Maryland,body structure,811,15840
+MD,Maryland,wipers/visibility,639,15840
+MD,Maryland,exterior lights,591,15840
+MD,Maryland,forward collision avoidance,510,15840
+MD,Maryland,suspension,498,15840
+MD,Maryland,stability control,298,15840
+MD,Maryland,wheels,275,15840
+MD,Maryland,seats,266,15840
+MD,Maryland,seat belts,256,15840
+MD,Maryland,backup camera,177,15840
+MD,Maryland,lane-keeping assist,163,15840
+MD,Maryland,tires,136,15840
+MD,Maryland,latches/locks,111,15840
+MD,Maryland,traction control,11,15840
+MD,Maryland,hybrid system,10,15840
+MD,Maryland,parking brake,10,15840
+MD,Maryland,interior lights,6,15840
+ME,Maine,engine,638,2962
+ME,Maine,electrical system,514,2962
+ME,Maine,transmission/powertrain,485,2962
+ME,Maine,steering,329,2962
+ME,Maine,brakes,285,2962
+ME,Maine,fuel system,192,2962
+ME,Maine,air bags,187,2962
+ME,Maine,body structure,154,2962
+ME,Maine,wipers/visibility,142,2962
+ME,Maine,suspension,139,2962
+ME,Maine,exterior lights,135,2962
+ME,Maine,speed control,117,2962
+ME,Maine,forward collision avoidance,69,2962
+ME,Maine,wheels,45,2962
+ME,Maine,seat belts,44,2962
+ME,Maine,seats,42,2962
+ME,Maine,stability control,37,2962
+ME,Maine,lane-keeping assist,25,2962
+ME,Maine,backup camera,23,2962
+ME,Maine,latches/locks,20,2962
+ME,Maine,tires,20,2962
+ME,Maine,traction control,4,2962
+ME,Maine,hybrid system,3,2962
+ME,Maine,parking brake,3,2962
+ME,Maine,interior lights,2,2962
+ME,Maine,trailer hitch,1,2962
+MI,Michigan,engine,5633,22968
+MI,Michigan,electrical system,4176,22968
+MI,Michigan,transmission/powertrain,4008,22968
+MI,Michigan,steering,2462,22968
+MI,Michigan,brakes,1990,22968
+MI,Michigan,fuel system,1604,22968
+MI,Michigan,air bags,1299,22968
+MI,Michigan,wipers/visibility,1120,22968
+MI,Michigan,speed control,1080,22968
+MI,Michigan,body structure,1053,22968
+MI,Michigan,suspension,755,22968
+MI,Michigan,exterior lights,717,22968
+MI,Michigan,forward collision avoidance,605,22968
+MI,Michigan,stability control,457,22968
+MI,Michigan,wheels,429,22968
+MI,Michigan,backup camera,326,22968
+MI,Michigan,seat belts,313,22968
+MI,Michigan,seats,289,22968
+MI,Michigan,lane-keeping assist,231,22968
+MI,Michigan,latches/locks,164,22968
+MI,Michigan,tires,164,22968
+MI,Michigan,traction control,51,22968
+MI,Michigan,parking brake,23,22968
+MI,Michigan,hybrid system,13,22968
+MI,Michigan,interior lights,10,22968
+MI,Michigan,trailer hitch,2,22968
+MN,Minnesota,engine,2131,9046
+MN,Minnesota,electrical system,1645,9046
+MN,Minnesota,transmission/powertrain,1412,9046
+MN,Minnesota,steering,949,9046
+MN,Minnesota,brakes,806,9046
+MN,Minnesota,fuel system,587,9046
+MN,Minnesota,air bags,497,9046
+MN,Minnesota,speed control,441,9046
+MN,Minnesota,body structure,428,9046
+MN,Minnesota,wipers/visibility,371,9046
+MN,Minnesota,exterior lights,339,9046
+MN,Minnesota,suspension,322,9046
+MN,Minnesota,forward collision avoidance,304,9046
+MN,Minnesota,wheels,172,9046
+MN,Minnesota,stability control,155,9046
+MN,Minnesota,seat belts,142,9046
+MN,Minnesota,backup camera,117,9046
+MN,Minnesota,lane-keeping assist,97,9046
+MN,Minnesota,seats,97,9046
+MN,Minnesota,latches/locks,60,9046
+MN,Minnesota,tires,56,9046
+MN,Minnesota,traction control,15,9046
+MN,Minnesota,trailer hitch,7,9046
+MN,Minnesota,interior lights,6,9046
+MN,Minnesota,parking brake,6,9046
+MN,Minnesota,hybrid system,2,9046
+MO,Missouri,engine,2795,11878
+MO,Missouri,transmission/powertrain,2100,11878
+MO,Missouri,electrical system,2065,11878
+MO,Missouri,steering,1259,11878
+MO,Missouri,brakes,1027,11878
+MO,Missouri,air bags,812,11878
+MO,Missouri,fuel system,795,11878
+MO,Missouri,body structure,599,11878
+MO,Missouri,speed control,572,11878
+MO,Missouri,wipers/visibility,534,11878
+MO,Missouri,exterior lights,418,11878
+MO,Missouri,forward collision avoidance,323,11878
+MO,Missouri,suspension,309,11878
+MO,Missouri,stability control,212,11878
+MO,Missouri,wheels,190,11878
+MO,Missouri,seat belts,178,11878
+MO,Missouri,backup camera,150,11878
+MO,Missouri,seats,147,11878
+MO,Missouri,latches/locks,101,11878
+MO,Missouri,lane-keeping assist,94,11878
+MO,Missouri,tires,84,11878
+MO,Missouri,parking brake,11,11878
+MO,Missouri,traction control,9,11878
+MO,Missouri,trailer hitch,5,11878
+MO,Missouri,hybrid system,2,11878
+MO,Missouri,interior lights,1,11878
+MS,Mississippi,engine,1119,4893
+MS,Mississippi,electrical system,818,4893
+MS,Mississippi,transmission/powertrain,771,4893
+MS,Mississippi,steering,578,4893
+MS,Mississippi,brakes,464,4893
+MS,Mississippi,air bags,436,4893
+MS,Mississippi,fuel system,374,4893
+MS,Mississippi,body structure,241,4893
+MS,Mississippi,exterior lights,227,4893
+MS,Mississippi,speed control,215,4893
+MS,Mississippi,wipers/visibility,201,4893
+MS,Mississippi,forward collision avoidance,154,4893
+MS,Mississippi,suspension,136,4893
+MS,Mississippi,stability control,116,4893
+MS,Mississippi,seats,83,4893
+MS,Mississippi,seat belts,72,4893
+MS,Mississippi,wheels,71,4893
+MS,Mississippi,lane-keeping assist,52,4893
+MS,Mississippi,backup camera,45,4893
+MS,Mississippi,tires,32,4893
+MS,Mississippi,latches/locks,25,4893
+MS,Mississippi,parking brake,6,4893
+MS,Mississippi,traction control,4,4893
+MS,Mississippi,hybrid system,3,4893
+MS,Mississippi,interior lights,2,4893
+MT,Montana,engine,384,1691
+MT,Montana,electrical system,288,1691
+MT,Montana,transmission/powertrain,276,1691
+MT,Montana,steering,231,1691
+MT,Montana,brakes,149,1691
+MT,Montana,fuel system,125,1691
+MT,Montana,air bags,99,1691
+MT,Montana,body structure,93,1691
+MT,Montana,wipers/visibility,84,1691
+MT,Montana,suspension,76,1691
+MT,Montana,speed control,74,1691
+MT,Montana,forward collision avoidance,57,1691
+MT,Montana,exterior lights,51,1691
+MT,Montana,stability control,34,1691
+MT,Montana,wheels,30,1691
+MT,Montana,seats,23,1691
+MT,Montana,seat belts,22,1691
+MT,Montana,tires,14,1691
+MT,Montana,backup camera,13,1691
+MT,Montana,lane-keeping assist,11,1691
+MT,Montana,latches/locks,9,1691
+MT,Montana,traction control,3,1691
+MT,Montana,interior lights,1,1691
+NC,North Carolina,engine,5100,21947
+NC,North Carolina,electrical system,3971,21947
+NC,North Carolina,transmission/powertrain,3580,21947
+NC,North Carolina,steering,2274,21947
+NC,North Carolina,brakes,1916,21947
+NC,North Carolina,fuel system,1805,21947
+NC,North Carolina,air bags,1752,21947
+NC,North Carolina,body structure,1075,21947
+NC,North Carolina,speed control,1075,21947
+NC,North Carolina,exterior lights,847,21947
+NC,North Carolina,wipers/visibility,838,21947
+NC,North Carolina,forward collision avoidance,747,21947
+NC,North Carolina,suspension,540,21947
+NC,North Carolina,stability control,414,21947
+NC,North Carolina,seat belts,351,21947
+NC,North Carolina,seats,350,21947
+NC,North Carolina,wheels,311,21947
+NC,North Carolina,backup camera,254,21947
+NC,North Carolina,lane-keeping assist,214,21947
+NC,North Carolina,tires,141,21947
+NC,North Carolina,latches/locks,132,21947
+NC,North Carolina,traction control,26,21947
+NC,North Carolina,parking brake,14,21947
+NC,North Carolina,hybrid system,12,21947
+NC,North Carolina,interior lights,5,21947
+NC,North Carolina,trailer hitch,3,21947
+ND,North Dakota,engine,243,1031
+ND,North Dakota,electrical system,177,1031
+ND,North Dakota,transmission/powertrain,160,1031
+ND,North Dakota,steering,117,1031
+ND,North Dakota,brakes,84,1031
+ND,North Dakota,fuel system,73,1031
+ND,North Dakota,wipers/visibility,51,1031
+ND,North Dakota,body structure,47,1031
+ND,North Dakota,air bags,43,1031
+ND,North Dakota,forward collision avoidance,43,1031
+ND,North Dakota,suspension,38,1031
+ND,North Dakota,speed control,37,1031
+ND,North Dakota,exterior lights,34,1031
+ND,North Dakota,wheels,22,1031
+ND,North Dakota,stability control,19,1031
+ND,North Dakota,lane-keeping assist,17,1031
+ND,North Dakota,backup camera,15,1031
+ND,North Dakota,seats,15,1031
+ND,North Dakota,seat belts,12,1031
+ND,North Dakota,latches/locks,10,1031
+ND,North Dakota,tires,10,1031
+ND,North Dakota,parking brake,1,1031
+ND,North Dakota,traction control,1,1031
+NE,Nebraska,engine,654,2778
+NE,Nebraska,electrical system,473,2778
+NE,Nebraska,transmission/powertrain,438,2778
+NE,Nebraska,steering,313,2778
+NE,Nebraska,brakes,230,2778
+NE,Nebraska,air bags,219,2778
+NE,Nebraska,fuel system,218,2778
+NE,Nebraska,body structure,138,2778
+NE,Nebraska,wipers/visibility,131,2778
+NE,Nebraska,speed control,127,2778
+NE,Nebraska,suspension,92,2778
+NE,Nebraska,forward collision avoidance,88,2778
+NE,Nebraska,exterior lights,71,2778
+NE,Nebraska,seat belts,59,2778
+NE,Nebraska,wheels,48,2778
+NE,Nebraska,stability control,34,2778
+NE,Nebraska,seats,33,2778
+NE,Nebraska,backup camera,26,2778
+NE,Nebraska,lane-keeping assist,22,2778
+NE,Nebraska,latches/locks,17,2778
+NE,Nebraska,tires,13,2778
+NE,Nebraska,parking brake,5,2778
+NE,Nebraska,hybrid system,2,2778
+NE,Nebraska,interior lights,1,2778
+NE,Nebraska,traction control,1,2778
+NH,New Hampshire,engine,716,3400
+NH,New Hampshire,electrical system,591,3400
+NH,New Hampshire,transmission/powertrain,555,3400
+NH,New Hampshire,steering,376,3400
+NH,New Hampshire,brakes,281,3400
+NH,New Hampshire,fuel system,246,3400
+NH,New Hampshire,air bags,219,3400
+NH,New Hampshire,body structure,166,3400
+NH,New Hampshire,speed control,160,3400
+NH,New Hampshire,suspension,159,3400
+NH,New Hampshire,wipers/visibility,152,3400
+NH,New Hampshire,exterior lights,121,3400
+NH,New Hampshire,forward collision avoidance,88,3400
+NH,New Hampshire,wheels,64,3400
+NH,New Hampshire,stability control,49,3400
+NH,New Hampshire,seat belts,46,3400
+NH,New Hampshire,backup camera,35,3400
+NH,New Hampshire,seats,33,3400
+NH,New Hampshire,tires,26,3400
+NH,New Hampshire,latches/locks,22,3400
+NH,New Hampshire,lane-keeping assist,21,3400
+NH,New Hampshire,traction control,9,3400
+NH,New Hampshire,parking brake,3,3400
+NH,New Hampshire,trailer hitch,3,3400
+NH,New Hampshire,hybrid system,1,3400
+NJ,New Jersey,engine,4166,18731
+NJ,New Jersey,electrical system,3336,18731
+NJ,New Jersey,transmission/powertrain,2734,18731
+NJ,New Jersey,steering,1846,18731
+NJ,New Jersey,brakes,1840,18731
+NJ,New Jersey,fuel system,1442,18731
+NJ,New Jersey,air bags,1302,18731
+NJ,New Jersey,body structure,941,18731
+NJ,New Jersey,wipers/visibility,924,18731
+NJ,New Jersey,speed control,882,18731
+NJ,New Jersey,forward collision avoidance,679,18731
+NJ,New Jersey,exterior lights,674,18731
+NJ,New Jersey,suspension,634,18731
+NJ,New Jersey,wheels,400,18731
+NJ,New Jersey,stability control,286,18731
+NJ,New Jersey,backup camera,266,18731
+NJ,New Jersey,seats,250,18731
+NJ,New Jersey,seat belts,247,18731
+NJ,New Jersey,lane-keeping assist,212,18731
+NJ,New Jersey,tires,211,18731
+NJ,New Jersey,latches/locks,117,18731
+NJ,New Jersey,parking brake,20,18731
+NJ,New Jersey,traction control,13,18731
+NJ,New Jersey,hybrid system,10,18731
+NJ,New Jersey,interior lights,8,18731
+NJ,New Jersey,trailer hitch,7,18731
+NM,New Mexico,engine,713,3471
+NM,New Mexico,electrical system,579,3471
+NM,New Mexico,transmission/powertrain,561,3471
+NM,New Mexico,brakes,345,3471
+NM,New Mexico,steering,345,3471
+NM,New Mexico,air bags,311,3471
+NM,New Mexico,fuel system,267,3471
+NM,New Mexico,speed control,187,3471
+NM,New Mexico,body structure,183,3471
+NM,New Mexico,forward collision avoidance,154,3471
+NM,New Mexico,wipers/visibility,144,3471
+NM,New Mexico,suspension,126,3471
+NM,New Mexico,exterior lights,96,3471
+NM,New Mexico,wheels,72,3471
+NM,New Mexico,stability control,69,3471
+NM,New Mexico,seat belts,63,3471
+NM,New Mexico,seats,51,3471
+NM,New Mexico,backup camera,38,3471
+NM,New Mexico,tires,31,3471
+NM,New Mexico,lane-keeping assist,29,3471
+NM,New Mexico,latches/locks,26,3471
+NM,New Mexico,traction control,5,3471
+NM,New Mexico,hybrid system,4,3471
+NM,New Mexico,interior lights,3,3471
+NM,New Mexico,parking brake,3,3471
+NM,New Mexico,trailer hitch,3,3471
+NV,Nevada,engine,1266,5606
+NV,Nevada,electrical system,1046,5606
+NV,Nevada,transmission/powertrain,888,5606
+NV,Nevada,fuel system,598,5606
+NV,Nevada,brakes,513,5606
+NV,Nevada,steering,481,5606
+NV,Nevada,air bags,454,5606
+NV,Nevada,speed control,297,5606
+NV,Nevada,body structure,276,5606
+NV,Nevada,forward collision avoidance,265,5606
+NV,Nevada,wipers/visibility,203,5606
+NV,Nevada,exterior lights,165,5606
+NV,Nevada,suspension,156,5606
+NV,Nevada,seats,99,5606
+NV,Nevada,stability control,94,5606
+NV,Nevada,seat belts,93,5606
+NV,Nevada,wheels,84,5606
+NV,Nevada,lane-keeping assist,79,5606
+NV,Nevada,backup camera,67,5606
+NV,Nevada,latches/locks,55,5606
+NV,Nevada,tires,49,5606
+NV,Nevada,parking brake,3,5606
+NV,Nevada,hybrid system,2,5606
+NV,Nevada,interior lights,2,5606
+NV,Nevada,traction control,1,5606
+NV,Nevada,trailer hitch,1,5606
+NY,New York,engine,6626,31240
+NY,New York,electrical system,5873,31240
+NY,New York,transmission/powertrain,4532,31240
+NY,New York,brakes,3130,31240
+NY,New York,steering,3094,31240
+NY,New York,air bags,2345,31240
+NY,New York,fuel system,2213,31240
+NY,New York,body structure,1720,31240
+NY,New York,speed control,1533,31240
+NY,New York,wipers/visibility,1360,31240
+NY,New York,suspension,1195,31240
+NY,New York,exterior lights,1128,31240
+NY,New York,forward collision avoidance,1053,31240
+NY,New York,wheels,618,31240
+NY,New York,stability control,575,31240
+NY,New York,seat belts,493,31240
+NY,New York,seats,434,31240
+NY,New York,backup camera,391,31240
+NY,New York,tires,342,31240
+NY,New York,lane-keeping assist,312,31240
+NY,New York,latches/locks,245,31240
+NY,New York,parking brake,49,31240
+NY,New York,traction control,29,31240
+NY,New York,hybrid system,26,31240
+NY,New York,interior lights,12,31240
+NY,New York,trailer hitch,10,31240
+OH,Ohio,engine,5938,24450
+OH,Ohio,electrical system,4366,24450
+OH,Ohio,transmission/powertrain,3973,24450
+OH,Ohio,steering,2687,24450
+OH,Ohio,brakes,2016,24450
+OH,Ohio,fuel system,1666,24450
+OH,Ohio,air bags,1531,24450
+OH,Ohio,body structure,1248,24450
+OH,Ohio,speed control,1128,24450
+OH,Ohio,wipers/visibility,1075,24450
+OH,Ohio,suspension,936,24450
+OH,Ohio,exterior lights,854,24450
+OH,Ohio,forward collision avoidance,713,24450
+OH,Ohio,wheels,426,24450
+OH,Ohio,stability control,418,24450
+OH,Ohio,seat belts,349,24450
+OH,Ohio,seats,293,24450
+OH,Ohio,backup camera,290,24450
+OH,Ohio,lane-keeping assist,239,24450
+OH,Ohio,tires,196,24450
+OH,Ohio,latches/locks,169,24450
+OH,Ohio,traction control,32,24450
+OH,Ohio,parking brake,18,24450
+OH,Ohio,hybrid system,12,24450
+OH,Ohio,interior lights,5,24450
+OH,Ohio,trailer hitch,5,24450
+OK,Oklahoma,engine,1646,6818
+OK,Oklahoma,transmission/powertrain,1145,6818
+OK,Oklahoma,electrical system,1144,6818
+OK,Oklahoma,steering,813,6818
+OK,Oklahoma,brakes,590,6818
+OK,Oklahoma,air bags,496,6818
+OK,Oklahoma,fuel system,487,6818
+OK,Oklahoma,body structure,361,6818
+OK,Oklahoma,speed control,333,6818
+OK,Oklahoma,exterior lights,258,6818
+OK,Oklahoma,suspension,228,6818
+OK,Oklahoma,forward collision avoidance,222,6818
+OK,Oklahoma,wipers/visibility,219,6818
+OK,Oklahoma,stability control,154,6818
+OK,Oklahoma,seat belts,112,6818
+OK,Oklahoma,seats,93,6818
+OK,Oklahoma,wheels,87,6818
+OK,Oklahoma,backup camera,77,6818
+OK,Oklahoma,lane-keeping assist,66,6818
+OK,Oklahoma,latches/locks,40,6818
+OK,Oklahoma,tires,38,6818
+OK,Oklahoma,parking brake,9,6818
+OK,Oklahoma,traction control,9,6818
+OK,Oklahoma,hybrid system,2,6818
+OK,Oklahoma,trailer hitch,2,6818
+OR,Oregon,engine,1260,6134
+OR,Oregon,electrical system,1243,6134
+OR,Oregon,transmission/powertrain,901,6134
+OR,Oregon,brakes,591,6134
+OR,Oregon,steering,590,6134
+OR,Oregon,fuel system,506,6134
+OR,Oregon,air bags,475,6134
+OR,Oregon,wipers/visibility,340,6134
+OR,Oregon,speed control,316,6134
+OR,Oregon,forward collision avoidance,277,6134
+OR,Oregon,body structure,275,6134
+OR,Oregon,exterior lights,230,6134
+OR,Oregon,suspension,144,6134
+OR,Oregon,stability control,103,6134
+OR,Oregon,seat belts,101,6134
+OR,Oregon,backup camera,100,6134
+OR,Oregon,seats,96,6134
+OR,Oregon,lane-keeping assist,90,6134
+OR,Oregon,wheels,84,6134
+OR,Oregon,latches/locks,33,6134
+OR,Oregon,tires,29,6134
+OR,Oregon,parking brake,12,6134
+OR,Oregon,hybrid system,7,6134
+OR,Oregon,traction control,6,6134
+OR,Oregon,interior lights,4,6134
+OR,Oregon,trailer hitch,3,6134
+PA,Pennsylvania,engine,5957,25577
+PA,Pennsylvania,electrical system,4478,25577
+PA,Pennsylvania,transmission/powertrain,4404,25577
+PA,Pennsylvania,steering,2630,25577
+PA,Pennsylvania,brakes,2288,25577
+PA,Pennsylvania,fuel system,1776,25577
+PA,Pennsylvania,air bags,1535,25577
+PA,Pennsylvania,body structure,1310,25577
+PA,Pennsylvania,speed control,1192,25577
+PA,Pennsylvania,wipers/visibility,1080,25577
+PA,Pennsylvania,exterior lights,991,25577
+PA,Pennsylvania,suspension,975,25577
+PA,Pennsylvania,forward collision avoidance,719,25577
+PA,Pennsylvania,stability control,441,25577
+PA,Pennsylvania,wheels,440,25577
+PA,Pennsylvania,seat belts,335,25577
+PA,Pennsylvania,seats,332,25577
+PA,Pennsylvania,backup camera,274,25577
+PA,Pennsylvania,latches/locks,206,25577
+PA,Pennsylvania,lane-keeping assist,197,25577
+PA,Pennsylvania,tires,192,25577
+PA,Pennsylvania,traction control,44,25577
+PA,Pennsylvania,parking brake,37,25577
+PA,Pennsylvania,hybrid system,17,25577
+PA,Pennsylvania,interior lights,17,25577
+PA,Pennsylvania,trailer hitch,11,25577
+RI,Rhode Island,engine,427,1944
+RI,Rhode Island,transmission/powertrain,322,1944
+RI,Rhode Island,electrical system,319,1944
+RI,Rhode Island,steering,210,1944
+RI,Rhode Island,brakes,173,1944
+RI,Rhode Island,air bags,147,1944
+RI,Rhode Island,fuel system,136,1944
+RI,Rhode Island,speed control,101,1944
+RI,Rhode Island,body structure,99,1944
+RI,Rhode Island,wipers/visibility,97,1944
+RI,Rhode Island,suspension,96,1944
+RI,Rhode Island,forward collision avoidance,67,1944
+RI,Rhode Island,exterior lights,60,1944
+RI,Rhode Island,wheels,35,1944
+RI,Rhode Island,seat belts,27,1944
+RI,Rhode Island,stability control,23,1944
+RI,Rhode Island,tires,23,1944
+RI,Rhode Island,backup camera,21,1944
+RI,Rhode Island,seats,20,1944
+RI,Rhode Island,lane-keeping assist,17,1944
+RI,Rhode Island,latches/locks,12,1944
+RI,Rhode Island,parking brake,2,1944
+RI,Rhode Island,traction control,2,1944
+SC,South Carolina,engine,2566,11349
+SC,South Carolina,electrical system,2037,11349
+SC,South Carolina,transmission/powertrain,1798,11349
+SC,South Carolina,steering,1164,11349
+SC,South Carolina,air bags,1090,11349
+SC,South Carolina,brakes,1050,11349
+SC,South Carolina,fuel system,845,11349
+SC,South Carolina,body structure,514,11349
+SC,South Carolina,exterior lights,483,11349
+SC,South Carolina,speed control,453,11349
+SC,South Carolina,forward collision avoidance,367,11349
+SC,South Carolina,wipers/visibility,351,11349
+SC,South Carolina,suspension,269,11349
+SC,South Carolina,stability control,194,11349
+SC,South Carolina,seats,183,11349
+SC,South Carolina,seat belts,182,11349
+SC,South Carolina,wheels,176,11349
+SC,South Carolina,backup camera,138,11349
+SC,South Carolina,lane-keeping assist,118,11349
+SC,South Carolina,tires,85,11349
+SC,South Carolina,latches/locks,72,11349
+SC,South Carolina,hybrid system,10,11349
+SC,South Carolina,traction control,10,11349
+SC,South Carolina,parking brake,6,11349
+SC,South Carolina,trailer hitch,6,11349
+SC,South Carolina,interior lights,2,11349
+SD,South Dakota,engine,277,1275
+SD,South Dakota,transmission/powertrain,192,1275
+SD,South Dakota,electrical system,191,1275
+SD,South Dakota,steering,159,1275
+SD,South Dakota,air bags,90,1275
+SD,South Dakota,fuel system,85,1275
+SD,South Dakota,brakes,84,1275
+SD,South Dakota,body structure,71,1275
+SD,South Dakota,speed control,66,1275
+SD,South Dakota,forward collision avoidance,63,1275
+SD,South Dakota,wipers/visibility,62,1275
+SD,South Dakota,exterior lights,52,1275
+SD,South Dakota,suspension,44,1275
+SD,South Dakota,wheels,28,1275
+SD,South Dakota,seat belts,27,1275
+SD,South Dakota,seats,17,1275
+SD,South Dakota,lane-keeping assist,15,1275
+SD,South Dakota,backup camera,11,1275
+SD,South Dakota,stability control,11,1275
+SD,South Dakota,tires,6,1275
+SD,South Dakota,latches/locks,5,1275
+SD,South Dakota,traction control,3,1275
+SD,South Dakota,trailer hitch,2,1275
+TN,Tennessee,engine,3195,13523
+TN,Tennessee,electrical system,2329,13523
+TN,Tennessee,transmission/powertrain,2328,13523
+TN,Tennessee,steering,1462,13523
+TN,Tennessee,brakes,1181,13523
+TN,Tennessee,air bags,1016,13523
+TN,Tennessee,fuel system,1016,13523
+TN,Tennessee,body structure,697,13523
+TN,Tennessee,speed control,595,13523
+TN,Tennessee,exterior lights,535,13523
+TN,Tennessee,wipers/visibility,489,13523
+TN,Tennessee,forward collision avoidance,428,13523
+TN,Tennessee,suspension,350,13523
+TN,Tennessee,stability control,255,13523
+TN,Tennessee,seats,206,13523
+TN,Tennessee,seat belts,200,13523
+TN,Tennessee,wheels,190,13523
+TN,Tennessee,backup camera,174,13523
+TN,Tennessee,lane-keeping assist,133,13523
+TN,Tennessee,latches/locks,81,13523
+TN,Tennessee,tires,75,13523
+TN,Tennessee,traction control,18,13523
+TN,Tennessee,parking brake,11,13523
+TN,Tennessee,trailer hitch,7,13523
+TN,Tennessee,hybrid system,4,13523
+TN,Tennessee,interior lights,2,13523
+TX,Texas,engine,12228,54951
+TX,Texas,electrical system,9631,54951
+TX,Texas,transmission/powertrain,8156,54951
+TX,Texas,steering,5964,54951
+TX,Texas,brakes,5396,54951
+TX,Texas,air bags,5133,54951
+TX,Texas,fuel system,4484,54951
+TX,Texas,body structure,2901,54951
+TX,Texas,speed control,2585,54951
+TX,Texas,exterior lights,1924,54951
+TX,Texas,wipers/visibility,1921,54951
+TX,Texas,suspension,1834,54951
+TX,Texas,forward collision avoidance,1776,54951
+TX,Texas,stability control,1113,54951
+TX,Texas,seats,925,54951
+TX,Texas,seat belts,901,54951
+TX,Texas,wheels,853,54951
+TX,Texas,backup camera,655,54951
+TX,Texas,lane-keeping assist,518,54951
+TX,Texas,tires,402,54951
+TX,Texas,latches/locks,386,54951
+TX,Texas,traction control,57,54951
+TX,Texas,parking brake,51,54951
+TX,Texas,hybrid system,23,54951
+TX,Texas,interior lights,18,54951
+TX,Texas,trailer hitch,14,54951
+UT,Utah,engine,993,4603
+UT,Utah,electrical system,872,4603
+UT,Utah,transmission/powertrain,745,4603
+UT,Utah,steering,476,4603
+UT,Utah,brakes,399,4603
+UT,Utah,fuel system,371,4603
+UT,Utah,air bags,290,4603
+UT,Utah,wipers/visibility,245,4603
+UT,Utah,forward collision avoidance,222,4603
+UT,Utah,body structure,214,4603
+UT,Utah,speed control,210,4603
+UT,Utah,suspension,143,4603
+UT,Utah,exterior lights,140,4603
+UT,Utah,seat belts,64,4603
+UT,Utah,backup camera,63,4603
+UT,Utah,seats,61,4603
+UT,Utah,lane-keeping assist,57,4603
+UT,Utah,wheels,50,4603
+UT,Utah,stability control,39,4603
+UT,Utah,tires,28,4603
+UT,Utah,latches/locks,23,4603
+UT,Utah,hybrid system,5,4603
+UT,Utah,parking brake,5,4603
+UT,Utah,interior lights,3,4603
+UT,Utah,trailer hitch,3,4603
+VA,Virginia,engine,4547,20984
+VA,Virginia,electrical system,3695,20984
+VA,Virginia,transmission/powertrain,3355,20984
+VA,Virginia,steering,2016,20984
+VA,Virginia,brakes,1854,20984
+VA,Virginia,fuel system,1625,20984
+VA,Virginia,air bags,1618,20984
+VA,Virginia,body structure,1095,20984
+VA,Virginia,speed control,936,20984
+VA,Virginia,wipers/visibility,831,20984
+VA,Virginia,exterior lights,817,20984
+VA,Virginia,forward collision avoidance,731,20984
+VA,Virginia,suspension,568,20984
+VA,Virginia,stability control,353,20984
+VA,Virginia,seat belts,343,20984
+VA,Virginia,seats,337,20984
+VA,Virginia,wheels,310,20984
+VA,Virginia,backup camera,261,20984
+VA,Virginia,lane-keeping assist,214,20984
+VA,Virginia,tires,167,20984
+VA,Virginia,latches/locks,140,20984
+VA,Virginia,traction control,23,20984
+VA,Virginia,parking brake,10,20984
+VA,Virginia,hybrid system,9,20984
+VA,Virginia,interior lights,6,20984
+VA,Virginia,trailer hitch,5,20984
+VT,Vermont,engine,274,1487
+VT,Vermont,electrical system,264,1487
+VT,Vermont,transmission/powertrain,232,1487
+VT,Vermont,brakes,174,1487
+VT,Vermont,steering,148,1487
+VT,Vermont,fuel system,97,1487
+VT,Vermont,air bags,92,1487
+VT,Vermont,body structure,90,1487
+VT,Vermont,wipers/visibility,75,1487
+VT,Vermont,speed control,73,1487
+VT,Vermont,suspension,63,1487
+VT,Vermont,exterior lights,60,1487
+VT,Vermont,forward collision avoidance,46,1487
+VT,Vermont,wheels,31,1487
+VT,Vermont,seat belts,23,1487
+VT,Vermont,tires,21,1487
+VT,Vermont,stability control,18,1487
+VT,Vermont,seats,16,1487
+VT,Vermont,backup camera,11,1487
+VT,Vermont,latches/locks,10,1487
+VT,Vermont,lane-keeping assist,8,1487
+VT,Vermont,hybrid system,3,1487
+VT,Vermont,traction control,1,1487
+VT,Vermont,trailer hitch,1,1487
+WA,Washington,engine,2742,13015
+WA,Washington,electrical system,2451,13015
+WA,Washington,transmission/powertrain,1994,13015
+WA,Washington,steering,1218,13015
+WA,Washington,brakes,1199,13015
+WA,Washington,fuel system,1010,13015
+WA,Washington,air bags,912,13015
+WA,Washington,wipers/visibility,770,13015
+WA,Washington,speed control,695,13015
+WA,Washington,body structure,608,13015
+WA,Washington,forward collision avoidance,603,13015
+WA,Washington,exterior lights,463,13015
+WA,Washington,suspension,355,13015
+WA,Washington,seats,216,13015
+WA,Washington,backup camera,185,13015
+WA,Washington,seat belts,183,13015
+WA,Washington,wheels,183,13015
+WA,Washington,lane-keeping assist,180,13015
+WA,Washington,stability control,180,13015
+WA,Washington,tires,75,13015
+WA,Washington,latches/locks,72,13015
+WA,Washington,traction control,17,13015
+WA,Washington,hybrid system,14,13015
+WA,Washington,parking brake,8,13015
+WA,Washington,trailer hitch,6,13015
+WA,Washington,interior lights,4,13015
+WI,Wisconsin,engine,2516,10770
+WI,Wisconsin,electrical system,1912,10770
+WI,Wisconsin,transmission/powertrain,1736,10770
+WI,Wisconsin,steering,1038,10770
+WI,Wisconsin,brakes,893,10770
+WI,Wisconsin,fuel system,725,10770
+WI,Wisconsin,air bags,620,10770
+WI,Wisconsin,body structure,568,10770
+WI,Wisconsin,wipers/visibility,504,10770
+WI,Wisconsin,speed control,498,10770
+WI,Wisconsin,exterior lights,394,10770
+WI,Wisconsin,suspension,376,10770
+WI,Wisconsin,forward collision avoidance,326,10770
+WI,Wisconsin,seat belts,182,10770
+WI,Wisconsin,stability control,172,10770
+WI,Wisconsin,wheels,153,10770
+WI,Wisconsin,seats,135,10770
+WI,Wisconsin,backup camera,117,10770
+WI,Wisconsin,lane-keeping assist,116,10770
+WI,Wisconsin,latches/locks,83,10770
+WI,Wisconsin,tires,81,10770
+WI,Wisconsin,traction control,19,10770
+WI,Wisconsin,trailer hitch,12,10770
+WI,Wisconsin,parking brake,9,10770
+WI,Wisconsin,hybrid system,4,10770
+WI,Wisconsin,interior lights,3,10770
+WV,West Virginia,engine,885,3974
+WV,West Virginia,transmission/powertrain,724,3974
+WV,West Virginia,electrical system,654,3974
+WV,West Virginia,steering,465,3974
+WV,West Virginia,brakes,395,3974
+WV,West Virginia,fuel system,310,3974
+WV,West Virginia,air bags,288,3974
+WV,West Virginia,speed control,190,3974
+WV,West Virginia,body structure,171,3974
+WV,West Virginia,suspension,165,3974
+WV,West Virginia,wipers/visibility,149,3974
+WV,West Virginia,exterior lights,139,3974
+WV,West Virginia,forward collision avoidance,109,3974
+WV,West Virginia,stability control,86,3974
+WV,West Virginia,wheels,65,3974
+WV,West Virginia,seats,50,3974
+WV,West Virginia,seat belts,49,3974
+WV,West Virginia,backup camera,39,3974
+WV,West Virginia,tires,35,3974
+WV,West Virginia,lane-keeping assist,34,3974
+WV,West Virginia,latches/locks,22,3974
+WV,West Virginia,traction control,11,3974
+WV,West Virginia,parking brake,8,3974
+WV,West Virginia,trailer hitch,2,3974
+WY,Wyoming,engine,161,849
+WY,Wyoming,transmission/powertrain,156,849
+WY,Wyoming,electrical system,140,849
+WY,Wyoming,steering,118,849
+WY,Wyoming,brakes,73,849
+WY,Wyoming,air bags,58,849
+WY,Wyoming,fuel system,52,849
+WY,Wyoming,wipers/visibility,46,849
+WY,Wyoming,suspension,39,849
+WY,Wyoming,exterior lights,32,849
+WY,Wyoming,body structure,30,849
+WY,Wyoming,forward collision avoidance,21,849
+WY,Wyoming,speed control,21,849
+WY,Wyoming,stability control,18,849
+WY,Wyoming,wheels,14,849
+WY,Wyoming,seat belts,12,849
+WY,Wyoming,seats,10,849
+WY,Wyoming,lane-keeping assist,9,849
+WY,Wyoming,backup camera,8,849
+WY,Wyoming,latches/locks,3,849
+WY,Wyoming,tires,3,849
